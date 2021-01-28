@@ -1,3 +1,3 @@
 echo Switching to bash...
 bash
-./.run.sh
+~/auto-gitcommit/.run.sh
