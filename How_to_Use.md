@@ -2,7 +2,9 @@
 
 Note: `atog` is an abbreviation for **a**u**to**matic **g**it
 
-Easy instructions! Run `setup.sh`. This will move the hidden script into your home directory (Note, `Ctrl+H` to view hidden files)
+Copy/Move the `atog.sh` file into your Home directory. 
+
+I could not make a script that would do that, because I would continuously get an error on the home directory: to specifiy the user, like /home/Sam
 
 To run the script, open up terminal and input the following command =>  `./atog.sh`
 
