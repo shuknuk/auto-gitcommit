@@ -1,0 +1,3 @@
+# auto-gitcommit
+Shell file that automatically commits git
+READDDDDDDDDDDDDMEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
