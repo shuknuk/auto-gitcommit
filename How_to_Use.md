@@ -2,11 +2,17 @@
 
 Note: `atog` is an abbreviation for **a**u**to**matic **g**it
 
-Copy/Move the `atog.sh` file into your Home directory. 
+**FIRST:** run `bash`
 
-I could not make a script that would do that, because I would continuously get an error on the home directory: to specifiy the user, like /home/Sam
+Note: **You must be using bash. Fish and zsh may not work well**
 
-To run the script, open up terminal and input the following command =>  `./atog.sh`
+Run `setup.sh` file.
+
+To run the script, open up terminal and input the following command =>  `~/./atog.sh`
+
+This will run the script from the **Home** directory, not any other random directory!!!
+
+--------------------------------------------------------------------------
 
 The script will contain the following git files:
 
@@ -14,6 +20,7 @@ The script will contain the following git files:
 - `git commit -m "Another commit made to the project. Inspect more for details."`
 - `git push`
 
+--------------------------------------------------------------------------
 
 At this point, it will prompt you to enter your log-in details. Enter those in, and it's successful! 
 
