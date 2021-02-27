@@ -1,2 +1,3 @@
 echo Copying atog.sh to Home directory...
 cp atog.sh ~
+echo Success!
